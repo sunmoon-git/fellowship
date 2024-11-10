@@ -20,9 +20,14 @@ copyright = ""            # default: params.author.name ↓ # 默认为下面配
 # language support # en / zh-cn / other... translations present in i18n/
 defaultContentLanguage = "en"           # Default language to use
 [languages.en]
+  weight = 1
   languageCode = "en"
+  languageName = "EN"
 [languages.zh-cn]
+  weight = 2
   languageCode = "zh-cn"
+  languageName = "简体中文“
+
 
 [sitemap]                 # essential                     # 必需
   changefreq = "weekly"
