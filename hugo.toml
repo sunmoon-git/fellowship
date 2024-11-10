@@ -38,7 +38,7 @@ defaultContentLanguage = "en"           # Default language to use
         url = "/"
         title = "Home"
       [[languages.zh-cn.menu.main]]
-        weight = 1
+        weight = 2
         identifier = "archives"
         pre = ""
         post = ""
@@ -46,38 +46,15 @@ defaultContentLanguage = "en"           # Default language to use
         url = "/posts/"
         title = "Posts"
       [[languages.zh-cn.menu.main]]
-        weight = 2
+        weight = 3
         identifier = "tags"
         pre = ""
         post = ""
         name = "标签"
         url = "/tags/"
         title = "Tags"
-      [[languages.zh-cn.menu.main]]
-        weight = 3
-        identifier = "categories"
-        pre = ""
-        post = ""
-        name = "分类"
-        url = "/categories/"
-        title = "Categories"
-      [[languages.zh-cn.menu.main]]
-        weight = 4 
-        identifier = "about"
-        pre = ""
-        post = ""
-        name = "关于"
-        url = "/about/"
-        title = "About"
-      [[languages.zh-cn.menu.main]]
-        weight = 5
-        identifier = "friend"
-        pre = ""
-        post = ""
-        name = "友链"
-        url = "/friend/"
-        title = "Friend"
     [languages.zh-cn.params]
+      logoTitle = "小组学习"
       [languages.zh-cn.params.search]
         enable = true
         type = "algolia"
@@ -118,21 +95,10 @@ defaultContentLanguage = "en"           # Default language to use
           gravatarEmail = ""
           avatarURL = "/images/avatar.png"
           title = ""
-          subtitle = "终极目标：去码头整点薯条"
+          subtitle = ""
           typeit = true
-          social = true
+          social = false
           disclaimer = ""
-      [languages.zh-cn.params.social]
-        GitHub = "xxx"
-        Weibo = ""
-        Steam = ""
-        Zhihu = ""
-        Douban = ""
-        Devto = ""
-        Bilibili = ""
-        Email = "stilig@xxx.com"
-        Phone = ""
-        RSS = true
 [sitemap]                 # essential                     # 必需
   changefreq = "weekly"
   priority = 0.5
@@ -157,14 +123,14 @@ defaultContentLanguage = "en"           # Default language to use
 [params]
   since = "2024"            # Site creation time          # 站点建立时间
   homeFullContent = false   # if false, show post summaries on home page. Otherwise show full content.
-  rssFullContent = true     # if false, Rss feed instead of the summary
+  rssFullContent = false     # if false, Rss feed instead of the summary
 
   author.name = "Hongsen"      # essential                     # 必需
   author.email = "me@example.com" # optional, for RSS             # 可选
   author.url = "/about"        # optional                      # 可选
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
-  logoTitle = "小组学习"        # default: the title value    # 默认值: 上面设置的title值
+  logoTitle = "Fellowship"        # default: the title value    # 默认值: 上面设置的title值
   keywords = ["Hugo", "theme","jane"]
   description = "Hugo theme jane example site."
 
