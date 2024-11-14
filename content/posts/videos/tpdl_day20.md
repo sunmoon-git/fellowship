@@ -4,6 +4,6 @@ draft = false
 title = 'Tpdl_day20'
 +++
 彼此相爱
-{{< video src="./song1.mp4" type="video/mp4" preload="auto" >}}
+{{< video src="/song1.mp4" type="video/mp4" preload="auto" >}}
 彼此相爱
-{{< video src="./song2.webm" type="video/webm" preload="auto" >}}
+{{< video src="/song2.webm" type="video/webm" preload="auto" >}}
