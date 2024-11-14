@@ -5,9 +5,8 @@
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on 小组学习</description>
     <generator>Hugo</generator>
-    <language>en</language>
-    <managingEditor>me@example.com (Hongsen)</managingEditor>
-    <webMaster>me@example.com (Hongsen)</webMaster>
+    <language>zh</language>
+    <copyright>© 2024</copyright>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
