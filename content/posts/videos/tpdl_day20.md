@@ -7,5 +7,5 @@ title = 'Tpdl_day20'
 {{< video src="/song1.mp4" type="video/mp4" preload="auto" >}}
 彼此相爱
 {{< video src="/song2.webm" type="video/webm" preload="auto" >}}
-{{ .RelPermalink }}
+
 
