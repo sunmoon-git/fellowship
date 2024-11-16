@@ -9,3 +9,5 @@ title = '标杆人生 第20天'
 {{< video src="/bi_ci_xiang_ai.mp4" type="video/mp4" preload="auto" >}}
 ### 让爱走动
 {{< video src="/love_overflows.webm" type="video/mp4" preload="auto" >}}
+
+## <span style="color:blue">重建破裂的团契生活</span>
