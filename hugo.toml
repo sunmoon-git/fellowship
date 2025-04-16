@@ -1,7 +1,7 @@
 baseURL = "https://hongsenliu.github.io/fellowshipgroup"
 # title = "小组学习"
 author = "弟兄小组"
-copyright = "© 2024"
+copyright = "© 2024-2025"
 pagination.pagerSize = 3
 languageCode = "zh"
 DefaultContentLanguage = "zh"
