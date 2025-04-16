@@ -4,7 +4,7 @@ draft = false
 title = 'Psalms139'
 +++
 
-{{< video src="/psalms139.mp4" type="video/mp4" preload="auto" >}}
+{{< video src="/wings_of_dawn.mp4" type="video/mp4" preload="auto" >}}
 
 # 诗篇139
 1. 耶和华啊，你已经鉴察我，认识我。
